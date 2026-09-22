@@ -1,13 +1,121 @@
-## Hi there 👋
+<div align="center">
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Anurag-1219&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Anurag-1219&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-1219&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 👋 Hi, I'm Anurag Yadav
+
+### AI/ML Engineer | Building AI-Powered Solutions
+
+**Python • Java • Machine Learning • Data Structures & Algorithms**
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Anurag-1219&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a Computer Science Engineering student focused on building practical AI/ML systems and solving real-world problems.
+
+- 🤖 Exploring Artificial Intelligence & Machine Learning
+- 🧠 Practicing Data Structures & Algorithms
+- 🐍 Building with Python
+- ☕ Developing with Java
+- 👁️ Working on Computer Vision & AI-powered applications
+- 🔭 Exploring Generative AI, LLMs, NLP & Spring Boot
+- 🚀 Interested in building practical, real-world software
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+Python • Java • SQL • JavaScript
+
+### 🤖 AI / Machine Learning
+Machine Learning • Scikit-learn • NumPy • Pandas • OpenCV • PyTorch
+
+### ⚙️ Development
+FastAPI • REST APIs • HTML • CSS
+
+### 🧩 DSA & Problem Solving
+Data Structures & Algorithms • Java Collections • LeetCode
+
+### 📚 Currently Exploring
+Generative AI • LLMs • NLP • Computer Vision • Spring Boot • System Design
+
+---
+
+## 🚀 Featured Projects
+
+### 👁️ Vision-AidX
+Offline, privacy-focused spatial AI assistant for visually impaired users.
+
+**Python • Computer Vision • VLM • OCR • Voice Interaction**
+
+[View Repository](https://github.com/Anurag-1219/Vision-AidX)
+
+---
+
+### 🌉 ContextBridge
+AI-powered conversation context compression and handoff system.
+
+**Python • NLP • LLMs • Context Processing**
+
+[View Repository](https://github.com/Anurag-1219/ContextBridge)
+
+---
+
+### ⚙️ PredictiveX
+AI-powered predictive maintenance platform.
+
+**Python • Machine Learning • Predictive Maintenance**
+
+[View Repository](https://github.com/Anurag-1219/PredictiveX)
+
+---
+
+## 🧠 DSA Journey
+
+Currently practicing **Data Structures & Algorithms in Java** and solving problems on **LeetCode**.
+
+**Arrays • Strings • Hashing • Binary Search • Sliding Window • Linked Lists • Stack • Queue • Recursion • Trees • Graphs**
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-1219&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-1219&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+
+![Contribution Snake](https://raw.githubusercontent.com/Anurag-1219/Anurag-1219/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-yadav-b918a3280/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Anurag-1219)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 Building • Learning • Solving 🚀
+
+</div>
