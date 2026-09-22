@@ -27,18 +27,23 @@ I'm a Computer Science Engineering student focused on building practical AI/ML s
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
+
 Python • Java • SQL • JavaScript
 
 ### 🤖 AI / Machine Learning
+
 Machine Learning • Scikit-learn • NumPy • Pandas • OpenCV • PyTorch
 
 ### ⚙️ Development
+
 FastAPI • REST APIs • HTML • CSS
 
 ### 🧩 DSA & Problem Solving
+
 Data Structures & Algorithms • Java Collections • LeetCode
 
 ### 📚 Currently Exploring
+
 Generative AI • LLMs • NLP • Computer Vision • Spring Boot • System Design
 
 ---
@@ -46,6 +51,7 @@ Generative AI • LLMs • NLP • Computer Vision • Spring Boot • System De
 ## 🚀 Featured Projects
 
 ### 👁️ Vision-AidX
+
 Offline, privacy-focused spatial AI assistant for visually impaired users.
 
 **Python • Computer Vision • VLM • OCR • Voice Interaction**
@@ -55,6 +61,7 @@ Offline, privacy-focused spatial AI assistant for visually impaired users.
 ---
 
 ### 🌉 ContextBridge
+
 AI-powered conversation context compression and handoff system.
 
 **Python • NLP • LLMs • Context Processing**
@@ -64,6 +71,7 @@ AI-powered conversation context compression and handoff system.
 ---
 
 ### ⚙️ PredictiveX
+
 AI-powered predictive maintenance platform.
 
 **Python • Machine Learning • Predictive Maintenance**
@@ -77,18 +85,6 @@ AI-powered predictive maintenance platform.
 Currently practicing **Data Structures & Algorithms in Java** and solving problems on **LeetCode**.
 
 **Arrays • Strings • Hashing • Binary Search • Sliding Window • Linked Lists • Stack • Queue • Recursion • Trees • Graphs**
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anurag-1219&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Anurag-1219&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
